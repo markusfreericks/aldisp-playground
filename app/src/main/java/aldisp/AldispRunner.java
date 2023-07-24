@@ -4,11 +4,8 @@
 package aldisp;
 
 public class AldispRunner {
-    public String getGreeting() {
-        return "Hello World!";
-    }
 
     public static void main(String[] args) {
-        System.out.println(new AldispRunner().getGreeting());
+        System.out.println("nothing to see here. have a look at the unit tests!");
     }
 }
